@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.food-image {
+  /* width: 289px;
+  height: 289px; */
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.food-div {
+  margin-top: 20px;
+  width: 100%;
+  /* background: black; */
+  padding: 10px !important;
+}
+
+.shoe-image {
+  width: 350px;
+  height: 289px;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/* .main {
+  display: flex;
+} */
+
+.shoe-div {
+  margin-top: 20px;
+  width: 100%;
+
+  padding: 10px !important;
+}
+.body {
+  background: black;
+}
